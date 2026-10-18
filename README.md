@@ -1,4 +1,7 @@
 # Getting Started
+
+Live Demo https://halohalohalo123-tech.github.io/personal-website/
+
 Install the dependencies and run the project
 ```
 npm install
